@@ -12278,7 +12278,7 @@ Page Title
   color: var(--theme-color1);
 }
 .error-page__inner .error-page__sub-title {
-  font-size: 40px;
+  font-size: 25px;
   letter-spacing: 0.1em;
   text-transform: uppercase;
   line-height: 50px;
