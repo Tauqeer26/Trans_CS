@@ -744,15 +744,15 @@ li {
   position: absolute;
   left: 50%;
   top: 50%;
-  width: 150px;
-  margin-left: -75px;
+  width: 250px;
+  margin-left: -115px;
   margin-top: -110px;
-  height: 150px;
+  height: 250px;
   background-position: center center;
   background-repeat: no-repeat;
   -webkit-animation: zoom-two 1.5s infinite linear;
           animation: zoom-two 1.5s infinite linear;
-  background-image: url(../images/favi.png);
+  background-image: url(../images/faviT4.png);
   content: "";
 }
 
@@ -12278,7 +12278,7 @@ Page Title
   color: var(--theme-color1);
 }
 .error-page__inner .error-page__sub-title {
-  font-size: 25px;
+  font-size: 40px;
   letter-spacing: 0.1em;
   text-transform: uppercase;
   line-height: 50px;
